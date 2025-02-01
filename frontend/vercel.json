@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://best-trade.vercel.app/api/:path*"
+      "destination": "https://best-trade-backend.vercel.app/api/:path*"
     }
   ]
 }
